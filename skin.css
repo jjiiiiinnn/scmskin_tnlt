@@ -1,12 +1,12 @@
 #player,#player a{ color:#5D5D5D; }
-#player{ background:url(https://github.com/jjiiiiinnn/scmskin_tnlt/blob/b536f5447659df94ac72f5fa48da3159a8a4f418/sizerAndVol.png); background-position: bottom !important; background-repeat: repeat-x !important; }
-#player .mainImage{ background:url(https://github.com/jjiiiiinnn/scmskin_tnlt/blob/af6f541aaad653f3c886d5dae293eabe57d0fd8c/main.png); }
+#player{ background:url(https://raw.githubusercontent.com/jjiiiiinnn/scmskin_tnlt/b536f5447659df94ac72f5fa48da3159a8a4f418/sizerAndVol.png); background-position: bottom !important; background-repeat: repeat-x !important; }
+#player .mainImage{ background:url(https://raw.githubusercontent.com/jjiiiiinnn/scmskin_tnlt/b536f5447659df94ac72f5fa48da3159a8a4f418/main.png); }
 
 #player #baseLeft{ width:188px; }
 #player #baseRight{ width:145px;}
 #player .button{  width:22px; }
 #player #pause{ left:32px; }
-#player #play{ background:url(https://github.com/jjiiiiinnn/scmskin_tnlt/blob/af6f541aaad653f3c886d5dae293eabe57d0fd8c/playBtn.png);left:31px; }
+#player #play{ background:url(https://raw.githubusercontent.com/jjiiiiinnn/scmskin_tnlt/b536f5447659df94ac72f5fa48da3159a8a4f418/playBtn.png);left:31px; }
 #player #previous{ left:8px; }
 #player #next{ left:55px; }
 #player #title{ left:90px;}
@@ -20,7 +20,7 @@
 #player #seekerSliderBase{ background-color:#5D5D5D; }
 
 #player #volume{ width:70px; right:33px; }
-#player #volumeSlider{ width:14px; background:url(https://github.com/jjiiiiinnn/scmskin_tnlt/blob/b536f5447659df94ac72f5fa48da3159a8a4f418/sizerAndVol.png); }
+#player #volumeSlider{ width:14px; background:url(https://raw.githubusercontent.com/jjiiiiinnn/scmskin_tnlt/b536f5447659df94ac72f5fa48da3159a8a4f418/sizerAndVol.png); }
 
 #playlist,#playlist .module,#playlist h3{ border-color:#5D5D5D; color:#5D5D5D; }
 #playlist h3{ background-color:#931313; color:#F9D8D8; }
